@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://adventures.micro.blog/2026/01/23/today-was-a-crappy-day/",
+				
+				"content_html": "<p>Today was a crappy day of driving in heavy traffic, punctuated by getting hit by a semi truck. We’re fine (and yes, bought all the insurance) but still…not a fun endeavor in a foreign country. Might bail on our wildlife viewing plans tomorrow and just uber around the city to avoid the driving.</p>\n",
+				"content_text": "Today was a crappy day of driving in heavy traffic, punctuated by getting hit by a semi truck. We’re fine (and yes, bought all the insurance) but still…not a fun endeavor in a foreign country. Might bail on our wildlife viewing plans tomorrow and just uber around the city to avoid the driving.\n",
+				"date_published": "2026-01-23T18:20:06-06:00",
+				"url": "https://adventuresaroundthe.world/2026/01/23/today-was-a-crappy-day/"
+			},
+			{
+				"id": "http://adventures.micro.blog/2026/01/22/i-am-always-amazed-at/",
+				
+				"content_html": "<p>I am always amazed at some of the things people manage to transport while riding a motorcycle. -S🇳🇮</p>\n",
+				"content_text": "I am always amazed at some of the things people manage to transport while riding a motorcycle. -S🇳🇮\n",
+				"date_published": "2026-01-22T17:34:07-06:00",
+				"url": "https://adventuresaroundthe.world/2026/01/22/i-am-always-amazed-at/",
+				"tags": ["?? Nicaragua"]
+			},
+			{
 				"id": "http://adventures.micro.blog/2026/01/22/after-standing-in-immigration-lines/",
 				
 				"content_html": "<p>After standing in immigration lines for two hours, we’ve made it into Nicaragua. Here was our traditional breakfast just over the border, which provided a great view of the two volcanoes of Ometepe Island on Lake Nicaragua (Lago Cocibolca). -S 🇳🇮</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -36,8 +53,8 @@
 			{
 				"id": "http://adventures.micro.blog/2026/01/21/these-huge-fan-palms-in/",
 				
-				"content_html": "<p>These huge fan palms in La Fortuna were so unusual. -J 🇨🇷</p>\n<p><img src=\"https://adventuresaroundthe.world/uploads/2026/21a6bfb130.jpg\" alt=\"\"></p>\n<p><img src=\"https://adventuresaroundthe.world/uploads/2026/235817d023.jpg\" alt=\"\"></p>\n",
-				"content_text": "These huge fan palms in La Fortuna were so unusual. -J 🇨🇷\n\n![](https://adventuresaroundthe.world/uploads/2026/21a6bfb130.jpg)\n\n![](https://adventuresaroundthe.world/uploads/2026/235817d023.jpg)\n\n\n",
+				"content_html": "<p>These huge fan palms in La Fortuna were so unusual. -J 🇨🇷</p>\n<p><img src=\"https://cdn.uploads.micro.blog/171295/2026/21a6bfb130.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/171295/2026/235817d023.jpg\" alt=\"\"></p>\n",
+				"content_text": "These huge fan palms in La Fortuna were so unusual. -J 🇨🇷\n\n![](https://cdn.uploads.micro.blog/171295/2026/21a6bfb130.jpg)\n\n![](https://cdn.uploads.micro.blog/171295/2026/235817d023.jpg)\n\n\n",
 				"date_published": "2026-01-21T16:37:46-06:00",
 				"url": "https://adventuresaroundthe.world/2026/01/21/these-huge-fan-palms-in/",
 				"tags": ["?? Costa Rica"]
